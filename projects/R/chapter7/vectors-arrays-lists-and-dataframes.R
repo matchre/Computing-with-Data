@@ -1,8 +1,3 @@
-# Vectors, Arrays, Lists, and Dataframes
-
-Vectors, arrays, lists, and dataframes are collections that hold multiple scalar values:
-
-```R runnable
 # c() concatenates arguments to create a vector
 x = c(4, 3, 3, 4, 3, 1)  
 x
@@ -78,4 +73,3 @@ df = data.frame(name = vecn, age = veca, salary = vecs)
 df
 names(df) = c("NAME", "AGE", "SALARY")  # modify column names
 df
-```

@@ -5,11 +5,11 @@ sinc = function(x) {
 curve(sinc, -7, +7, main = "Using curve")
 
 # Using plot
-S = sort.int(mpg$cty, index.return = T)
+s = sort.int(mpg$cty, index.return = T)
 #  S$x holds the sorted values of city mpg
 #  S$ix holds the indices of the sorted values of city mpg
 #  First plot the sorted city mpg values with a line plot
-plot(S$x,
+plot(s$x,
      main = "Using plot",
      type = "l", 
      lty = 2, 

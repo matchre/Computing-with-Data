@@ -1,8 +1,3 @@
-# Installing Packages
-
-R features easy installation of both core R and third party packages:
-
-```R
 # install package ggplot2
 install.packages("ggplot2")
 # install package from a particular mirror site
@@ -14,4 +9,3 @@ library(ggplot2)  # bring package into scope
 data(package = "ggplot2")
 installed.packages()  # display a list of installed packages
 update.packages()  # update currently installed packages
-```

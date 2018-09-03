@@ -21,7 +21,7 @@ plot(mtcars$hp,
      mtcars$mpg,
      pch = mtcars$am,
      cex = 1.2,
-     main = "mpg vs. hp by transmission",
+     main = "MPG vs. HP by Transmission",
      xlab = "horsepower",
      ylab = "miles per gallon")
 legend("topright", c("automatic", "manual"), pch = c(0, 1))
@@ -30,24 +30,24 @@ legend("topright", c("automatic", "manual"), pch = c(0, 1))
 qplot(x = waiting,
       y = eruptions,
       data = faithful,
-      main = "Using qplot - waiting times (sec) vs. eruptions (min)")
+      main = "Using qplot - Waiting Times (sec) vs. Eruptions (min)")
 
 # The graph below shows a scatter plot of car weights vs mpg
 qplot(x = wt, 
       y = mpg, 
       data = mtcars, 
-      main = "Using qplot - MPG vs. weight (x1000 lbs)")
+      main = "Using qplot - MPG vs. Weight (x1000 lbs)")
 
 # Denoting the number of cylinders by size using the size argument
 qplot(x = wt,
       y = mpg,
       data = mtcars,
       size = cyl,
-      main = "Using qplot with size - MPG vs. weight (x1000 lbs) by cylinder")
+      main = "Using qplot with Size - MPG vs. Weight (x1000 lbs) by Cylinder")
 
 # Alternatively, color can be used to encode the number of cylinders
 qplot(x = wt,
       y = mpg,
       data = mtcars,
       color = cyl,
-      main = "Using qplot with color - MPG vs. weight (x1000 lbs) by cylinder")
+      main = "Using qplot with Color - MPG vs. Weight (x1000 lbs) by Cylinder")

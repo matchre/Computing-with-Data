@@ -2,6 +2,9 @@
 title: Computing with Data
 cover: https://images.springer.com/sgw/books/big/9783319981482.jpg
 projects:
+  python:
+    root: /projects/python
+    runner: computingwithdata/python:latest
   R:
     root: /projects/R
     runner: computingwithdata/r-base:latest
@@ -75,5 +78,31 @@ plan:
     statement: markdowns/chapter8/6-kernel-functions.md
   - title: Smoothing Histograms Using Gaussian Kernels
     statement: markdowns/chapter8/7-smoothing-histograms-using-gaussian-kernels.md
-  - title: Smoothing Histograms Using `qplot`
+  - title: Smoothing Histograms Using qplot
     statement: markdowns/chapter8/8-smoothing-histograms-using-qplot.md
+  - title: Smoothing Histograms Using ggplot
+    statement: markdowns/chapter8/9-smoothing-histograms-using-ggplot.md
+  - title: Scatter Plots
+    statement: markdowns/chapter8/A-scatter-plots.md
+  - title: Smoothing Scatter Plots
+    statement: markdowns/chapter8/B-smoothing-scatter-plots.md
+  - title: Facets
+    statement: markdowns/chapter8/C-facets.md
+  - title: All-Pairs Relationships
+    statement: markdowns/chapter8/D-all-pairs-relationships.md
+  - title: Contour Plots
+    statement: markdowns/chapter8/E-contour-plots.md
+  - title: Box Plots
+    statement: markdowns/chapter8/F-box-plots.md
+  - title: qq-Plots
+    statement: markdowns/chapter8/G-qq-plots.md
+  - title: Devices
+    statement: markdowns/chapter8/H-devices.md
+  - title: Data Preparation
+    statement: markdowns/chapter8/I-data-preparation.md
+  - title: Graphing Data in Python
+    statement: markdowns/chapter8/J-graphing-data-in-python.md
+  - title: Line Plots
+    statement: markdowns/chapter8/K-line-plots.md
+  - title: Histograms
+    statement: markdowns/chapter8/L-histograms.md

@@ -18,7 +18,7 @@ uniform = function(x) {
   x[ind] = 0
   return(x)
 }
-R = stack(list("uniform" = uniform(x_grid),
+df = stack(list("uniform" = uniform(x_grid),
                "triangular" = triangular(x_grid),
                "gaussian" = gaussian(x_grid),
                "tricube" = tricube(x_grid),
@@ -26,15 +26,15 @@ R = stack(list("uniform" = uniform(x_grid),
                "triangular" = triangular(x_grid / 2) / 2,
                "gaussian" = gaussian(x_grid / 2) / 2,
                "tricube" = tricube(x_grid / 2) / 2))
-head(R)  # first six lines
-names(R) = c("kernel.value", "kernel.type")
-R$x = x_grid
-R$h[1:400] = "$h=1$"
-R$h[401:800] = "$h=2$"
-head(R)  # first six lines
+head(df)  # first six lines
+names(df) = c("kernel.value", "kernel.type")
+df$x = x_grid
+df$h[1:400] = "$h = 1$"
+df$h[401:800] = "$h = 2$"
+head(df)  # first six lines
 qplot(x,
       kernel.value,
-      data = R,
+      data = df,
       facets = kernel.type~h,
       geom = "line",
       xlab = "$x$",

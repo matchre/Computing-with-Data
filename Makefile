@@ -5,3 +5,4 @@ clean:
 
 techio.yml:
 	@./generate-playground-config > techio.yml
+	@./import-inline-code

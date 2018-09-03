@@ -12,18 +12,18 @@ code:
 n = 100
 nsq = n * n
 # generate two random matrices
-A = matrix(runif(nsq), nrow = n, ncol = n)
-B = matrix(runif(nsq), nrow = n, ncol = n)
+a = matrix(runif(nsq), nrow = n, ncol = n)
+b = matrix(runif(nsq), nrow = n, ncol = n)
 
-system.time(A %*% B)  # built-in matrix multiplication
+system.time(a %*% b)  # built-in matrix multiplication
 
-matMult = function(A, B, n) {
-    R = matrix(data = 0, nrow = n, ncol = n)
+matMult = function(a, b, n) {
+    m = matrix(data = 0, nrow = n, ncol = n)
     for (i in 1:n)
       for (j in 1:n)
           for (k in 1:n)
-              R[i,j] = R[i,j] + A[i,k] * B[k,j]
-    return(R)
+              m[i, j] = m[i, j] + a[i, k] * b[k, j]
+    return(m)
    }
-system.time(matMult(A, B, n)) # nested loops implementation
+system.time(matMult(a, b, n)) # nested loops implementation
 ```

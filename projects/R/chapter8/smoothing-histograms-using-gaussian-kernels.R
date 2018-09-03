@@ -10,7 +10,7 @@ for (i in 1:data_size) {
 plot(x_grid, f, xlab = "$x$", ylab = "$f_h(x)$", type = "l")
 for (i in 1:data_size)
     lines(x_grid, kernel_values[, i] / 2, lty = 2)
-title("Smoothed histogram ($h=1/6$)", font.main = 1)
+title("Smoothed Histogram ($h=1/6$)", font.main = 1)
 
 f = x_grid * 0
 for(i in 1:data_size) {
@@ -20,7 +20,7 @@ for(i in 1:data_size) {
 plot(x_grid, f, xlab = "$x$", ylab = "$f_h(x)$", type = "l")
 for (i in 1:data_size)
     lines(x_grid, kernel_values[, i] / 2, lty = 2)
-title("Smoothed histogram ($h=1/3$)", font.main = 1)
+title("Smoothed Histogram ($h=1/3$)", font.main = 1)
 
 f = x_grid * 0
 for (i in 1:data_size) {
@@ -30,4 +30,4 @@ for (i in 1:data_size) {
 plot(x_grid, f, xlab = "$x$" , ylab = "$f_h(x)$", type = "l")
 for (i in 1:data_size)
     lines(x_grid, kernel_values[,i] / 2, lty = 2)
-title("Smoothed histogram ($h=1$)", font.main = 1)
+title("Smoothed Histogram ($h=1$)", font.main = 1)

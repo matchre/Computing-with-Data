@@ -1,6 +1,9 @@
 title: Computing with Data
 cover: https://images.springer.com/sgw/books/big/9783319981482.jpg
 projects:
+  python:
+    root: /projects/python
+    runner: computingwithdata/python:latest
   R:
     root: /projects/R
     runner: computingwithdata/r-base:latest
