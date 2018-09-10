@@ -106,3 +106,7 @@ plan:
     statement: markdowns/chapter8/K-line-plots.md
   - title: Histograms
     statement: markdowns/chapter8/L-histograms.md
+  - title: Contour Plots
+    statement: markdowns/chapter8/M-contour-plots.md
+  - title: Surface Plots
+    statement: markdowns/chapter8/N-surface-plots.md
