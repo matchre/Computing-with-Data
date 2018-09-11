@@ -16,12 +16,12 @@ plt.contourf(xx,
              yy,
              zz,
              6,
-             cmap='gray')
+             cmap="gray")
 # Add black lines to highlight contours levels
 plt.contour(xx,
             yy,
             zz,
             6,
-            colors = 'black',
+            colors = "black",
             linewidth = .5)
 plt.show()

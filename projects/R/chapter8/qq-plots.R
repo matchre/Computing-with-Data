@@ -1,4 +1,4 @@
-set.seed(1)  # for reproducibility
+set.seed(1)  # constant seed for reproducibility
 df = data.frame(samples = c(rnorm(200, 1, 1),
                             rnorm(200, 0, 1),
                             rnorm(200, 0, 2)))

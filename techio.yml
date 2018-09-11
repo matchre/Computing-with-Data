@@ -24,6 +24,83 @@ plan:
     statement: markdowns/chapter2/4-log-scale.md
   - title: Use of Assembly Language in High-Level Languages
     statement: markdowns/chapter2/5-assembly.md
+- title: Chapter 6
+  description: "Learning Python"
+  plan:
+  - title: Getting Started
+    statement: markdowns/chapter6/0-getting-started.md
+  - title: Objects
+    statement: markdowns/chapter6/1-objects.md
+  - title: Importing Modules
+    statement: markdowns/chapter6/2-importing-modules.md
+  - title: Executing Shell Commands
+    statement: markdowns/chapter6/3-executing-shell-commands.md
+  - title: Scalar Data Types
+    statement: markdowns/chapter6/4-scalar-data-types.md
+  - title: Strings
+    statement: markdowns/chapter6/5-strings.md
+  - title: Duck Typing
+    statement: markdowns/chapter6/6-duck-typing.md
+  - title: Duck Typing
+    statement: markdowns/chapter6/7-tuples.md
+  - title: Lists
+    statement: markdowns/chapter6/8-lists.md
+  - title: Ranges
+    statement: markdowns/chapter6/9-ranges.md
+  - title: Slicing
+    statement: markdowns/chapter6/A-slicing.md
+  - title: Sets
+    statement: markdowns/chapter6/B-sets.md
+  - title: Dictionaries
+    statement: markdowns/chapter6/C-dictionaries.md
+  - title: Counters
+    statement: markdowns/chapter6/D-counters.md
+  - title: Dictionaries with Default Values
+    statement: markdowns/chapter6/E-dictionaries-with-default-values.md
+  - title: Hashable Objects
+    statement: markdowns/chapter6/F-hashable-objects.md
+  - title: List Comprehensions
+    statement: markdowns/chapter6/G-list-comprehensions.md
+  - title: Set Comprehensions
+    statement: markdowns/chapter6/H-set-comprehensions.md
+  - title: Dictionary Comprehensions
+    statement: markdowns/chapter6/I-dictionary-comprehensions.md
+  - title: Nested Comprehensions
+    statement: markdowns/chapter6/J-nested-comprehensions.md
+  - title: Control Flow
+    statement: markdowns/chapter6/K-control-flow.md
+  - title: The Empty Statement
+    statement: markdowns/chapter6/L-the-empty-statement.md
+  - title: Functions - Part I
+    statement: markdowns/chapter6/M-functions-part-i.md
+  - title: Functions - Part II
+    statement: markdowns/chapter6/N-functions-part-ii.md
+  - title: Functions - Part III
+    statement: markdowns/chapter6/O-functions-part-iii.md
+  - title: Classes
+    statement: markdowns/chapter6/P-classes.md
+  - title: Inheritance
+    statement: markdowns/chapter6/Q-inheritance.md
+  - title: The Empty Class
+    statement: markdowns/chapter6/R-the-empty-class.md
+  - title: The NumPY Package
+    statement: markdowns/chapter6/S-the-numpy-package.md
+  - title: Linear Algebra
+    statement: markdowns/chapter6/T-linear-algebra.md
+  - title: Random Number Generation
+    statement: markdowns/chapter6/U-random-number-generation.md
+  - title: The SciPy Package
+    statement: markdowns/chapter6/V-the-scipy-package.md
+  - title: The pandas Package
+    statement: markdowns/chapter6/W-the-pandas-package.md
+  - title: The scikit-learn Package
+    statement: markdowns/chapter6/X0-the-scikit-learn-package.md
+  - title: Clustering
+    statement: markdowns/chapter6/X1-clustering.md
+  - title: Classification
+    statement: markdowns/chapter6/X2-classification.md
+  - title: Regression
+    statement: markdowns/chapter6/X3-regression.md
 - title: Chapter 7
   description: "Learning R"
   plan:

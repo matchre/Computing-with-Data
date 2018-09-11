@@ -1,4 +1,4 @@
-set.seed(1)  # for reproducibility
+set.seed(1)  # constant seed for reproducibility
 df = data.frame(replicate(2, sample(0:100, 100, rep = TRUE)))
 names(df) = c("col1", "col2")
 

@@ -12,6 +12,10 @@ plan:
   description: "Essential Knowledge: Hardware"
   plan:
 >>build-plan markdowns/chapter2/*
+- title: Chapter 6
+  description: "Learning Python"
+  plan:
+>>build-plan markdowns/chapter6/*
 - title: Chapter 7
   description: "Learning R"
   plan:
