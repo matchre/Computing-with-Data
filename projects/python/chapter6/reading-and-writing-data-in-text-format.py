@@ -13,3 +13,6 @@ with open("mobydick.txt") as f:  # "rt" is the default mode
 with open("output.txt", "w") as f:
   f.write("first line\n")
   f.writelines(["second line\n", "third line\n"])
+
+with open("output.txt") as f:
+  print(f.read())
