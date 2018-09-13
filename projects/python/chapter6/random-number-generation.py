@@ -1,6 +1,6 @@
 import numpy as np
 
- # N(0, 1) Gaussian
+# N(0, 1) Gaussian
 print("np.random.normal(size=(2, 2)) =")
 print(np.random.normal(size=(2, 2)))
 # uniform over [0,1]

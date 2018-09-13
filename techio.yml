@@ -83,7 +83,7 @@ plan:
     statement: markdowns/chapter6/Q-inheritance.md
   - title: The Empty Class
     statement: markdowns/chapter6/R-the-empty-class.md
-  - title: The NumPY Package
+  - title: The NumPy Package
     statement: markdowns/chapter6/S-the-numpy-package.md
   - title: Linear Algebra
     statement: markdowns/chapter6/T-linear-algebra.md

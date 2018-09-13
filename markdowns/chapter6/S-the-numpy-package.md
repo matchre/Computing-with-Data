@@ -1,4 +1,4 @@
-# The NumPY Package
+# The NumPy Package
 
 NumPy is a Python package that facilitate working with multidimensional arrays,
 vectors, matrices, linear algebra, etc.
