@@ -101,6 +101,14 @@ plan:
     statement: markdowns/chapter6/X2-classification.md
   - title: Regression
     statement: markdowns/chapter6/X3-regression.md
+  - title: Reading and Writing Data in Text Format
+    statement: markdowns/chapter6/Y0-reading-and-writing-data-in-text-format.md
+  - title: Reading and Writing Ndarrays
+    statement: markdowns/chapter6/Y1-reading-and-writing-ndarrays.md
+  - title: Reading and Writing Dataframes
+    statement: markdowns/chapter6/Y2-reading-and-writing-dataframes.md
+  - title: Material Differences between Python 3 and 2
+    statement: markdowns/chapter6/Z-material-differences-between-python-3-and-2.md
 - title: Chapter 7
   description: "Learning R"
   plan:
