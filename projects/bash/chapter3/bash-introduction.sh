@@ -8,7 +8,6 @@ echo hello world; echo hello; echo world
 echo hello; echo world; echo -n hello; echo -n world
 
 # Example: combining flags
-echo "hello\nworld" > hello.tx
 # cat concatenates and prints files
 # -e displays $ at the end of each line
 # -n displays the line number
