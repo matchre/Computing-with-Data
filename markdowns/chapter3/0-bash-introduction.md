@@ -1,6 +1,6 @@
 # Bash - Introduction
 
-```bash
+```bash runnable
 # this is a comment
 # the prefix ## indicates an output line
 # the echo command displays its arguments

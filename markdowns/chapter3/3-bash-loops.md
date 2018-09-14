@@ -1,6 +1,6 @@
 # Bash - Loops
 
-```bash
+```bash runnable
 # Example: the seq command
 seq 1 5
 echo seq 1 5

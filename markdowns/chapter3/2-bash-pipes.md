@@ -4,7 +4,7 @@ The following example shows a piped combination of the `echo` command,
 and the `wc` command, which prints the number of lines, words, and characters
 in its input:
 
-```bash
+```bash runnable
 echo a sentence with 8 words and 42 characters
 # count lines, words, characters in the following sentence
 echo a sentence with 8 words and 42 characters | wc

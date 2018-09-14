@@ -1,6 +1,6 @@
 # Bash - Variables
 
-```bash
+```bash runnable
 # Example: setting a variable
 a=3; echo a; echo $a
 
