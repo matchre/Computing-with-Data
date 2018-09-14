@@ -5,7 +5,7 @@ def f(x, y):
     return 3 * x ** 2 + 5 * y ** 2
 
 
-x_grid = np.linspace(-2, 2, 100) 
+x_grid = np.linspace(-2, 2, 100)
 y_grid = np.linspace(-2, 2, 100)
 # Create two ndarrays xx, yy containing x and y coordinates
 xx, yy = np.meshgrid(x_grid, y_grid)
