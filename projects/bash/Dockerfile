@@ -1,0 +1,3 @@
+FROM bash:latest
+
+COPY . .

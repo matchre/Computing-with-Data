@@ -24,6 +24,19 @@ plan:
     statement: markdowns/chapter2/4-log-scale.md
   - title: Use of Assembly Language in High-Level Languages
     statement: markdowns/chapter2/5-assembly.md
+- title: Chapter 3
+  description: "Essential Knowledge: Operating Systems"
+  plan:
+  - title: Bash - Introduction
+    statement: markdowns/chapter3/0-bash-introduction.md
+  - title: Bash - Variables
+    statement: markdowns/chapter3/1-bash-variables.md
+  - title: Bash - Pipes
+    statement: markdowns/chapter3/2-bash-pipes.md
+  - title: Bash - Loops
+    statement: markdowns/chapter3/3-bash-loops.md
+  - title: Bash - Conditional Logic
+    statement: markdowns/chapter3/4-bash-conditional-logic.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
@@ -41,7 +54,7 @@ plan:
     statement: markdowns/chapter6/5-strings.md
   - title: Duck Typing
     statement: markdowns/chapter6/6-duck-typing.md
-  - title: Duck Typing
+  - title: Tuples
     statement: markdowns/chapter6/7-tuples.md
   - title: Lists
     statement: markdowns/chapter6/8-lists.md
