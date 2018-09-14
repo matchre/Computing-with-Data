@@ -1,4 +1,4 @@
-# Duck Typing
+# Tuples
 
 A tuple is an immutable sequence of objects of potentially different types.
 Each object can be referred to using the square bracket index notation.
