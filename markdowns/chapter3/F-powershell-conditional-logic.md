@@ -1,15 +1,4 @@
 # PowerShell - Conditional Logic
 
-```powershell runnable
-"time flies" -like "an arrow"
-"fruit flies" -notlike "*lies"
--not ("anything" -match ".*")
-Test-Path nonexistent.txt
-$?
-## False
-## False
-## False
-## False
-## True
-## 
-```
+@[]({"project": "powershell", "stubs": ["chapter3/powershell-conditional-logic.ps1"], "command": "pwsh chapter3/powershell-conditional-logic.ps1"})
+
