@@ -10,7 +10,6 @@ FILE_EXTENSION_BY_LANGUAGE = {
     'C': 'c',
     'C#': 'cs',
     'C++': 'cpp',
-    'cmd': 'bat',
     'go': 'go',
     'java': 'java',
     'powershell': 'ps1',
@@ -23,10 +22,13 @@ def import_lesson(lesson_file_path):
         for line in lesson_file:
             if line.startswith('```'):
                 write_output(lesson_file, line[3:].split()[0])
+                return
 
 
 def write_output(lesson_file, language):
-    extension = FILE_EXTENSION_BY_LANGUAGE[language]
+    extension = FILE_EXTENSION_BY_LANGUAGE.get(language)
+    if not extension:
+        return
     path_parts = lesson_file_path.split('/')
     chapter = os.path.join('projects', language, path_parts[1])
     try:
