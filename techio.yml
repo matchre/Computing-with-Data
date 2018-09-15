@@ -40,6 +40,8 @@ plan:
     statement: markdowns/chapter3/3-bash-loops.md
   - title: Bash - Conditional Logic
     statement: markdowns/chapter3/4-bash-conditional-logic.md
+  - title: Bash - Aliases
+    statement: markdowns/chapter3/5-bash-aliases.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
