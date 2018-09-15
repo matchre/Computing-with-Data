@@ -60,7 +60,7 @@ plan:
   - title: PowerShell - Pipes
     statement: markdowns/chapter3/C-powershell-pipes.md
   - title: PowerShell - Variables
-    statement: markdowns/chapter3/D-powershell-variables.1.md
+    statement: markdowns/chapter3/D-powershell-variables.md
   - title: PowerShell - Loops
     statement: markdowns/chapter3/E-powershell-loops.md
   - title: PowerShell - Conditional Logic
