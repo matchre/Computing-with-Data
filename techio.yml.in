@@ -4,6 +4,9 @@ projects:
   bash:
     root: /projects/bash
     runner: computingwithdata/bash:latest
+  powershell:
+    root: /projects/powershell
+    runner: computingwithdata/powershell:latest
   python:
     root: /projects/python
     runner: computingwithdata/python:latest

@@ -4,7 +4,7 @@ Despite the fact that R has excellent graphics capabilities, it's sometimes
 desirable to graph data in another programming language. For example, when
 the entire data analysis process is in Python, it may make sense to graph
 the data within Python as well. Below and in the rest of this chapter, we
-explore `matplotlib` --- a popular Python module for graphing data.
+explore `matplotlib` — a popular Python module for graphing data.
 
 ```python
 import matplotlib.pyplot as plt

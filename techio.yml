@@ -5,6 +5,9 @@ projects:
   bash:
     root: /projects/bash
     runner: computingwithdata/bash:latest
+  powershell:
+    root: /projects/powershell
+    runner: computingwithdata/powershell:latest
   python:
     root: /projects/python
     runner: computingwithdata/python:latest
@@ -42,6 +45,26 @@ plan:
     statement: markdowns/chapter3/4-bash-conditional-logic.md
   - title: Bash - Aliases
     statement: markdowns/chapter3/5-bash-aliases.md
+  - title: Command Prompt - Introduction
+    statement: markdowns/chapter3/6-command-prompt-introduction.md
+  - title: Command Prompt - Variables
+    statement: markdowns/chapter3/7-command-prompt-variables.md
+  - title: Command Prompt - Pipes
+    statement: markdowns/chapter3/8-command-prompt-pipes.md
+  - title: Command Prompt - Loop
+    statement: markdowns/chapter3/9-command-prompt-loops.md
+  - title: Command Prompt - Conditional Logic
+    statement: markdowns/chapter3/A-command-prompt-conditional-logic.md
+  - title: PowerShell - Introduction
+    statement: markdowns/chapter3/B-powershell-introduction.md
+  - title: PowerShell - Pipes
+    statement: markdowns/chapter3/C-powershell-pipes.md
+  - title: PowerShell - Variables
+    statement: markdowns/chapter3/D-powershell-variables.1.md
+  - title: PowerShell - Loops
+    statement: markdowns/chapter3/E-powershell-loops.md
+  - title: PowerShell - Conditional Logic
+    statement: markdowns/chapter3/F-powershell-conditional-logic.md
 - title: Chapter 6
   description: "Learning Python"
   plan:

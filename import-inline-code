@@ -6,14 +6,16 @@ import os
 from glob import glob
 
 FILE_EXTENSION_BY_LANGUAGE = {
+    'bash': 'sh',
     'C': 'c',
-    'java': 'java',
     'C#': 'cs',
     'C++': 'cpp',
+    'cmd': 'bat',
+    'go': 'go',
+    'java': 'java',
+    'powershell': 'ps1',
     'python': 'py',
     'R': 'R',
-    'go': 'go',
-    'bash': 'sh',
 }
 
 def import_lesson(lesson_file_path):
