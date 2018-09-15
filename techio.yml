@@ -75,7 +75,7 @@ plan:
   - title: Importing Modules
     statement: markdowns/chapter6/2-importing-modules.md
   - title: Executing Shell Commands
-    statement: markdowns/chapter6/3-executing-shell-commands.md
+    statement: markdowns/chapter6/3-executing-shell-commands-in-python.md
   - title: Scalar Data Types
     statement: markdowns/chapter6/4-scalar-data-types.md
   - title: Strings
