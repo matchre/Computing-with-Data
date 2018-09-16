@@ -71,8 +71,8 @@ plan:
     statement: markdowns/chapter3/H-processes-in-linux-part-ii.md
   - title: Processes in Windows
     statement: markdowns/chapter3/I-processes-in-windows.md
-  - title: The Linux Hierarchy of Directories
-    statement: markdowns/chapter3/J0-the-linux-hierarchy-of-directories.md
+  - title: Files in Linux
+    statement: markdowns/chapter3/J0-files-in-linux.md
   - title: Displaying Files
     statement: markdowns/chapter3/J1-displaying-files.md
   - title: Moving, Copying, and Removing Files and Directories
@@ -85,8 +85,28 @@ plan:
     statement: markdowns/chapter3/J5-listing-directory-contents.md
   - title: The PATH Environment Variable
     statement: markdowns/chapter3/J6-the-path-environment-variable.md
-  - title: Compression
-    statement: markdowns/chapter3/J7-compression.md
+  - title: Compression in Linux
+    statement: markdowns/chapter3/J7-compression-in-linux.md
+  - title: Bash Initialization File
+    statement: markdowns/chapter3/J8-bash-initialization-file.md
+  - title: Script Files
+    statement: markdowns/chapter3/J9-script-files.md
+  - title: Files in Windows
+    statement: markdowns/chapter3/K0-files-in-windows.md
+  - title: Hierarchy of Directories
+    statement: markdowns/chapter3/K1-hierarchy-of-directories.md
+  - title: Compression in Windows
+    statement: markdowns/chapter3/K2-compression-in-windows.md
+  - title: Users and Permissions in Linux
+    statement: markdowns/chapter3/L0-users-and-permissions-in-linux.md
+  - title: Users and Permissions in Windows
+    statement: markdowns/chapter3/L1-users-and-permissions-in-windows.md
+  - title: Redirecting Input and Output in Linux
+    statement: markdowns/chapter3/M0-redirecting-input-and-output-in-linux.md
+  - title: Redirecting Input and Output in Windows
+    statement: markdowns/chapter3/M1-redirecting-input-and-output-in-windows.md
+  - title: Working on Remote Linux Computers
+    statement: markdowns/chapter3/N-working-on-remote-linux-computers.md
 - title: Chapter 6
   description: "Learning Python"
   plan:

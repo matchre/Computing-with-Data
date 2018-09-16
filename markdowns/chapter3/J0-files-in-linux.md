@@ -1,4 +1,4 @@
-# The Linux Hierarchy of Directories
+# Files in Linux
 
 ```bash runnable
 cd /  # change current directory to top-most directory
