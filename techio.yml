@@ -65,6 +65,28 @@ plan:
     statement: markdowns/chapter3/E-powershell-loops.md
   - title: PowerShell - Conditional Logic
     statement: markdowns/chapter3/F-powershell-conditional-logic.md
+  - title: Processes in Linux - Part I
+    statement: markdowns/chapter3/G-processes-in-linux-part-i.md
+  - title: Processes in Linux - Part II
+    statement: markdowns/chapter3/H-processes-in-linux-part-ii.md
+  - title: Processes in Windows
+    statement: markdowns/chapter3/I-processes-in-windows.md
+  - title: The Linux Hierarchy of Directories
+    statement: markdowns/chapter3/J0-the-linux-hierarchy-of-directories.md
+  - title: Displaying Files
+    statement: markdowns/chapter3/J1-displaying-files.md
+  - title: Moving, Copying, and Removing Files and Directories
+    statement: markdowns/chapter3/J2-moving-copying-and-removing-files-and-directories.md
+  - title: Wildcard Characters
+    statement: markdowns/chapter3/J3-wildcard-characters.md
+  - title: Soft Links
+    statement: markdowns/chapter3/J4-soft-links.md
+  - title: Listing Directory Contents
+    statement: markdowns/chapter3/J5-listing-directory-contents.md
+  - title: The PATH Environment Variable
+    statement: markdowns/chapter3/J6-the-path-environment-variable.md
+  - title: Compression
+    statement: markdowns/chapter3/J7-compression.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
