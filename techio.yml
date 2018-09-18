@@ -2,17 +2,17 @@
 title: Computing with Data
 cover: https://images.springer.com/sgw/books/big/9783319981482.jpg
 projects:
-  bash:
-    root: /projects/bash
+  sh:
+    root: /projects/sh
     runner: computingwithdata/bash
-  C++:
-    root: /projects/C++
-    runner: computingwithdata/C++
-  powershell:
-    root: /projects/powershell
+  cpp:
+    root: /projects/cpp
+    runner: computingwithdata/cpp
+  ps1:
+    root: /projects/ps1
     runner: computingwithdata/powershell
-  python:
-    root: /projects/python
+  py:
+    root: /projects/py
     runner: computingwithdata/python
   R:
     root: /projects/R
