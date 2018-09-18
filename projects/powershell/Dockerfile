@@ -1,3 +1,3 @@
-FROM microsoft/powershell:latest
+FROM microsoft/powershell
 
 COPY . .

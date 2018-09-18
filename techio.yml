@@ -4,16 +4,19 @@ cover: https://images.springer.com/sgw/books/big/9783319981482.jpg
 projects:
   bash:
     root: /projects/bash
-    runner: computingwithdata/bash:latest
+    runner: computingwithdata/bash
+  C++:
+    root: /projects/C++
+    runner: computingwithdata/C++
   powershell:
     root: /projects/powershell
-    runner: computingwithdata/powershell:latest
+    runner: computingwithdata/powershell
   python:
     root: /projects/python
-    runner: computingwithdata/python:latest
+    runner: computingwithdata/python
   R:
     root: /projects/R
-    runner: computingwithdata/r-base:latest
+    runner: computingwithdata/r-base
 plan:
 - title: Chapter 2
   description: "Essential Knowledge: Hardware"
@@ -107,6 +110,11 @@ plan:
     statement: markdowns/chapter3/M1-redirecting-input-and-output-in-windows.md
   - title: Working on Remote Linux Computers
     statement: markdowns/chapter3/N-working-on-remote-linux-computers.md
+- title: Chapter 4
+  description: "Learning C++"
+  plan:
+  - title: Compilation
+    statement: markdowns/chapter4/0-compilation.md
 - title: Chapter 6
   description: "Learning Python"
   plan:

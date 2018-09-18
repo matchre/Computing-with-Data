@@ -8,6 +8,8 @@ clean:
 docker:
 	docker build -t computingwithdata/bash projects/bash
 	docker push computingwithdata/bash
+	docker build -t computingwithdata/cpp projects/C++
+	docker push computingwithdata/cpp
 	docker build -t computingwithdata/powershell projects/powershell
 	docker push computingwithdata/powershell
 	docker build -t computingwithdata/python projects/python
