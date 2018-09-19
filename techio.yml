@@ -139,6 +139,32 @@ plan:
     statement: markdowns/chapter4/A1-strings-part-ii.md
   - title: Input - Part I
     statement: markdowns/chapter4/B1-input-part-i.md
+  - title: Input - Part II
+    statement: markdowns/chapter4/B2-input-part-ii.md
+  - title: Input - Part III
+    statement: markdowns/chapter4/B3-input-part-iii.md
+  - title: Output
+    statement: markdowns/chapter4/C-output.md
+  - title: If-Else Clauses
+    statement: markdowns/chapter4/D0-if-else-clauses.md
+  - title: While-Loops
+    statement: markdowns/chapter4/D1-while-loops.md
+  - title: For-Loops - Part I
+    statement: markdowns/chapter4/D2-for-loops-part-i.md
+  - title: For-Loops - Part II
+    statement: markdowns/chapter4/D3-for-loops-part-ii.md
+  - title: For-Loops - Part III
+    statement: markdowns/chapter4/D4-for-loops-part-iii.md
+  - title: Functions
+    statement: markdowns/chapter4/E0-functions.md
+  - title: Return Value
+    statement: markdowns/chapter4/E1-return-value.md
+  - title: Function Parameters
+    statement: markdowns/chapter4/E2-function-parameters.md
+  - title: Function Definition and Declaration
+    statement: markdowns/chapter4/E3-function-definition-and-declaration.md
+  - title: Scope of Function Variables
+    statement: markdowns/chapter4/E4-scope-of-function-variables.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
