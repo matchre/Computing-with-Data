@@ -13,7 +13,7 @@ struct Vector {
 };
 
 // pass by const reference; the function doesn't modify p1 or p2
-point subtract_points(const Point &p1, const point &p2) {
+Point subtract_points(const Point &p1, const Point &p2) {
   Point delta;
   
   delta.x = p1.x - p2.x;

@@ -10,7 +10,7 @@ int factorial(int n) {
     return 1;
   }
   
-  int result = n * factorial_recursion(n - 1);
+  int result = n * factorial(n - 1);
   cout << "leaving factorial(" << n <<
     ") with return value " << result << endl;
   

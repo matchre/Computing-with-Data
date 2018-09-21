@@ -1,6 +1,14 @@
 # Structs - Part V
 
 ```C++ runnable
+#include <iostream>
+using namespace std;
+
+struct Point {
+  double x;
+  double y;
+};
+
 int main() {
   // create an array of two points
   Point points[2];
