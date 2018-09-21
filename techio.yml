@@ -165,6 +165,32 @@ plan:
     statement: markdowns/chapter4/E3-function-definition-and-declaration.md
   - title: Scope of Function Variables
     statement: markdowns/chapter4/E4-scope-of-function-variables.md
+  - title: Pointer Parameters
+    statement: markdowns/chapter4/E5-pointer-parameters.md
+  - title: Reference Parameters
+    statement: markdowns/chapter4/E6-reference-parameters.md
+  - title: Recursion - Part I
+    statement: markdowns/chapter4/E7-recursion-part-i.md
+  - title: Recursion - Part II
+    statement: markdowns/chapter4/E8-recursion-part-ii.md
+  - title: Recursion - Part III
+    statement: markdowns/chapter4/E9-recursion-part-iii.md
+  - title: Recursion - Part IV
+    statement: markdowns/chapter4/EA-recursion-part-iv.md
+  - title: Passing Arguments to Main
+    statement: markdowns/chapter4/EB-passing-arguments-to-main.md
+  - title: Overloading Functions
+    statement: markdowns/chapter4/EC-overloading-functions.md
+  - title: Structs - Part I
+    statement: markdowns/chapter4/F0-structs-part-i.md
+  - title: Structs - Part II
+    statement: markdowns/chapter4/F1-structs-part-ii.md
+  - title: Structs - Part III
+    statement: markdowns/chapter4/F2-structs-part-iii.md
+  - title: Structs - Part IV
+    statement: markdowns/chapter4/F3-structs-part-iv.md
+  - title: Structs - Part V
+    statement: markdowns/chapter4/F4-structs-part-v.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
