@@ -1,6 +1,6 @@
 # Dynamic Memory Allocation - Part III
 
-```C++ runnable
+```C++
 int main() {
   int n = 2;
   // allocates memory for an array of n objects of type point
