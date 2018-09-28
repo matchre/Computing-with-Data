@@ -223,6 +223,36 @@ plan:
     statement: markdowns/chapter4/GE-static-variables-and-functions-part-i.md
   - title: Static Variables and Functions - Part II
     statement: markdowns/chapter4/GF-static-variables-and-functions-part-ii.md
+  - title: Dynamic Memory Allocation - Part I
+    statement: markdowns/chapter4/H0-dynamic-memory-allocation-part-i.md
+  - title: Dynamic Memory Allocation - Part II
+    statement: markdowns/chapter4/H1-dynamic-memory-allocation-part-ii.md
+  - title: Dynamic Memory Allocation - Part III
+    statement: markdowns/chapter4/H2-dynamic-memory-allocation-part-iii.md
+  - title: Smart Pointers - Part I
+    statement: markdowns/chapter4/H3-smart-pointers-part-i.md
+  - title: Smart Pointers - Part II
+    statement: markdowns/chapter4/H4-smart-pointers-part-ii.md
+  - title: Smart Pointers - Part III
+    statement: markdowns/chapter4/H5-smart-pointers-part-iii.md
+  - title: Template Functions - Part I
+    statement: markdowns/chapter4/I0-template-functions-part-i.md
+  - title: Template Functions - Part II
+    statement: markdowns/chapter4/I1-template-functions-part-ii.md
+  - title: Template Classes
+    statement: markdowns/chapter4/I2-template-classes.md
+  - title: Vectors
+    statement: markdowns/chapter4/J0-vectors.md
+  - title: Arrays
+    statement: markdowns/chapter4/J1-arrays.md
+  - title: Sets
+    statement: markdowns/chapter4/J2-sets.md
+  - title: Maps - Part I
+    statement: markdowns/chapter4/J3-maps-part-i.md
+  - title: Maps - Part II
+    statement: markdowns/chapter4/J4-maps-part-ii.md
+  - title: Unordered Maps
+    statement: markdowns/chapter4/J5-unordered-maps.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
