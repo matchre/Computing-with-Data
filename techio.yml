@@ -191,6 +191,38 @@ plan:
     statement: markdowns/chapter4/F3-structs-part-iv.md
   - title: Structs - Part V
     statement: markdowns/chapter4/F4-structs-part-v.md
+  - title: Classes
+    statement: markdowns/chapter4/G0-classes.md
+  - title: Constructors - Part I
+    statement: markdowns/chapter4/G1-constructors-part-i.md
+  - title: Constructors - Part II
+    statement: markdowns/chapter4/G2-constructors-part-ii.md
+  - title: The Destructor
+    statement: markdowns/chapter4/G3-the-destructor.md
+  - title: The Copy Constructor
+    statement: markdowns/chapter4/G4-the-copy-constructor.md
+  - title: The Converting Constructor
+    statement: markdowns/chapter4/G5-the-converting-constructor.md
+  - title: The Implicit Converting Constructor
+    statement: markdowns/chapter4/G6-the-implicit-converting-constructor.md
+  - title: The Explicit Converting Constructor
+    statement: markdowns/chapter4/G7-the-explicit-converting-constructor.md
+  - title: Operator Overloading
+    statement: markdowns/chapter4/G8-operator-overloading.md
+  - title: Friend Functions and Classes
+    statement: markdowns/chapter4/G9-friend-functions-and-classes.md
+  - title: Inheritance
+    statement: markdowns/chapter4/GA-inheritance.md
+  - title: Polymorphism
+    statement: markdowns/chapter4/GB-polymorphism.md
+  - title: Static Binding
+    statement: markdowns/chapter4/GC-static-binding.md
+  - title: Virtual Functions
+    statement: markdowns/chapter4/GD-virtual-functions.1.md
+  - title: Static Variables and Functions - Part I
+    statement: markdowns/chapter4/GE-static-variables-and-functions-part-i.md
+  - title: Static Variables and Functions - Part II
+    statement: markdowns/chapter4/GF-static-variables-and-functions-part-ii.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
