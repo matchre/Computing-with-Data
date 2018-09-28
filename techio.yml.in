@@ -38,6 +38,6 @@ plan:
   plan:
 >>build-plan markdowns/chapter7/*
 - title: Chapter 8
-  description: "Visualizing Data in Python and R"
+  description: "Visualizing Data in R and Python"
   plan:
 >>build-plan markdowns/chapter8/*

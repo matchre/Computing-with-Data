@@ -374,7 +374,7 @@ plan:
   - title: Customization
     statement: markdowns/chapter7/F-customization.md
 - title: Chapter 8
-  description: "Visualizing Data in Python and R"
+  description: "Visualizing Data in R and Python"
   plan:
   - title: Graphing Data in R
     statement: markdowns/chapter8/0-graphing-data-in-r.md
