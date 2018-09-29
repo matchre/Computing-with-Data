@@ -275,6 +275,18 @@ plan:
     statement: markdowns/chapter5/6-classpath.md
   - title: Strings
     statement: markdowns/chapter5/7-strings.md
+  - title: Functions
+    statement: markdowns/chapter5/8-functions.md
+  - title: Classes - Part I
+    statement: markdowns/chapter5/9-classes-part-i.md
+  - title: Classes - Part II
+    statement: markdowns/chapter5/A-classes-part-ii.md
+  - title: Classes - Part III
+    statement: markdowns/chapter5/B-classes-part-iii.md
+  - title: Inheritance
+    statement: markdowns/chapter5/C-inheritance.md
+  - title: Interfaces
+    statement: markdowns/chapter5/D-interfaces.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
