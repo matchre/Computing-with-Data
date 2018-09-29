@@ -253,6 +253,11 @@ plan:
     statement: markdowns/chapter4/J4-maps-part-ii.md
   - title: Unordered Maps
     statement: markdowns/chapter4/J5-unordered-maps.md
+- title: Chapter 5
+  description: "Learning Java"
+  plan:
+  - title: Compilation
+    statement: markdowns/chapter5/0-compilation.md
 - title: Chapter 6
   description: "Learning Python"
   plan:

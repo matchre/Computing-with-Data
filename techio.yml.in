@@ -29,6 +29,10 @@ plan:
   description: "Learning C++"
   plan:
 >>build-plan markdowns/chapter4/*
+- title: Chapter 5
+  description: "Learning Java"
+  plan:
+>>build-plan markdowns/chapter5/*
 - title: Chapter 6
   description: "Learning Python"
   plan:
