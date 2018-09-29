@@ -8,6 +8,9 @@ projects:
   cpp:
     root: /projects/cpp
     runner: computingwithdata/cpp
+  java:
+    root: /projects/java
+    runner: computingwithdata/java
   ps1:
     root: /projects/ps1
     runner: computingwithdata/powershell
