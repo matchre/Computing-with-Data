@@ -1,3 +1,3 @@
 # Compilation
 
-@[]({"project": "java", "stubs": ["chapter5/compilation.java", "chapter5/compilation.sh"], "command": "java chapter5/compilation.java"})
+@[]({"project": "java", "stubs": ["chapter5/HelloWorld.java", "chapter5/compilation.sh"], "command": "java chapter5/HelloWorld.java"})
