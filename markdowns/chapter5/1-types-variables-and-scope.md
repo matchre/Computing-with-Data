@@ -1,16 +1,3 @@
 # Types, Variables, and Scope
 
-```java runnable
-public class UninitializedVariableExample { 
-  public static void main(final String[] args) { 
-    final int a = 3;
-    final int b;
-    final int c;
-
-    System.out.println(a); // ok; prints 3
-    b = 3;
-    System.out.println(b); // ok; prints 3
-    System.out.println(c); // error: c is not initialized
-  }
-}
-```
+@[]({"project": "java", "stubs": ["chapter5/UninitializedVariableExample.java"], "command": "java chapter5/UninitializedVariableExample.java"})
