@@ -3,7 +3,7 @@ public class RaggedMultidimensionalArrayExample {
      final int[][] ar = new int[10][];
 
      for (int i = 0; i < ar.length; ++i) {
-       ar[i] = new int[i+1];
+       ar[i] = new int[i + 1];
        for (int j = 0; j < ar[i].length; ++j) {
          ar[i][j] = i * 10 + j;
        }
