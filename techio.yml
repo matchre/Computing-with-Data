@@ -261,6 +261,20 @@ plan:
   plan:
   - title: Compilation
     statement: markdowns/chapter5/0-compilation.md
+  - title: Types, Variables, and Scope
+    statement: markdowns/chapter5/1-types-variables-and-scope.md
+  - title: Primitive and Non-Primitive Types
+    statement: markdowns/chapter5/2-primitive-and-non-primitive-types.md
+  - title: Arrays
+    statement: markdowns/chapter5/3-arrays.md
+  - title: Multidimensional Arrays
+    statement: markdowns/chapter5/4-multidimensional-arrays.md
+  - title: Ragged Multidimensional Arrays
+    statement: markdowns/chapter5/5-ragged-multidimensional-arrays.md
+  - title: Classpath
+    statement: markdowns/chapter5/6-classpath.md
+  - title: Strings
+    statement: markdowns/chapter5/7-strings.md
 - title: Chapter 6
   description: "Learning Python"
   plan:
