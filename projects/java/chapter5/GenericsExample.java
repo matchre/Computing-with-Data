@@ -12,7 +12,7 @@ class Point<T> {
   }
 }
 
-public class Main {
+public class GenericsExample {
   public static void main(final String[] args) {
     Point<Double> p = new Point<>(3.0, 1.0);
 
