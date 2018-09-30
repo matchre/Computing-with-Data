@@ -1,7 +1,7 @@
 import java.util.Date;
 
 public class DateExample {
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     final Date date1 = new Date(); // define a new object date1
     final Date date2 = date1; // point date2 to date1
     

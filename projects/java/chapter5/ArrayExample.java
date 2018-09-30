@@ -1,5 +1,5 @@
 public class ArrayExample {
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     final int n = 10;
     final int[] ar = new int[n];
 

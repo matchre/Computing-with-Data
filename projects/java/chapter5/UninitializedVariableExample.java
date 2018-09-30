@@ -1,5 +1,5 @@
-public class UninitializedVariableExample { 
-  public static void main(final String[] args) { 
+public class UninitializedVariableExample {
+  public static void main(final String[] args) {
     final int a = 3;
     final int b;
     final int c;

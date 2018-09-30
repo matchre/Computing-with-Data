@@ -1,4 +1,4 @@
-class Parent { // superclass 
+class Parent { // superclass
   private int a;
   
   public Parent(final int a) {
