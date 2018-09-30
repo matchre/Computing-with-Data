@@ -464,3 +464,8 @@ plan:
     statement: markdowns/chapter8/M-contour-plots.md
   - title: Surface Plots
     statement: markdowns/chapter8/N-surface-plots.md
+- title: Chapter 9
+  description: "Processing Data in R and Python"
+  plan:
+  - title: Missing Data in R
+    statement: markdowns/chapter9/0-missing-data-in-r.md

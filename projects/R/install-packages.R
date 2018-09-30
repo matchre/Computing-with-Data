@@ -1,3 +1,4 @@
-install.packages("ggplot2")
-install.packages("tikzDevice")
 install.packages("GGally")
+install.packages("ggplot2")
+install.packages("ggplot2movies")
+install.packages("tikzDevice")
