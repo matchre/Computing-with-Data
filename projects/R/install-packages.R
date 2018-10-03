@@ -1,3 +1,4 @@
+install.packages("Ecdat")
 install.packages("GGally")
 install.packages("ggplot2")
 install.packages("ggplot2movies")
