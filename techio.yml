@@ -491,3 +491,10 @@ plan:
     statement: markdowns/chapter9/A-reshaping-data.md
   - title: The Split-Apply-Combine Framework
     statement: markdowns/chapter9/B-the-split-apply-combine-framework.md
+- title: Chapter 10
+  description: "Essential Knowledge: Parallel Programming"
+  plan:
+  - title: Thread Safety - Part I
+    statement: markdowns/chapter10/0-thread-safety-part-i.md
+  - title: Thread Safety - Part II
+    statement: markdowns/chapter10/1-thread-safety-part-ii.md
