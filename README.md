@@ -1,7 +1,10 @@
 # Computing with Data
 ![Cover](https://images.springer.com/sgw/books/medium/9783319981482.jpg "Cover")
 
-See https://computingwithdata.com
+* https://computingwithdata.com
+* [View on Amazon](https://www.amazon.com/gp/product/331998148X)
+* [View on Google Books](https://books.google.com/books?id=2XxNuQEACAAJ)
+* [View on Springer](https://www.springer.com/us/book/9783319981482)
 
 ## A Guide Book to the Data Industry
 
