@@ -498,3 +498,15 @@ plan:
     statement: markdowns/chapter10/0-thread-safety-part-i.md
   - title: Thread Safety - Part II
     statement: markdowns/chapter10/1-thread-safety-part-ii.md
+  - title: Volatility - Part I
+    statement: markdowns/chapter10/2-volatility-part-i.md
+  - title: Volatility - Part II
+    statement: markdowns/chapter10/3-volatility-part-ii.md
+  - title: Synchronization
+    statement: markdowns/chapter10/4-synchronization.md
+  - title: Ineffectual Synchronization - Part I
+    statement: markdowns/chapter10/5-ineffectual-synchronization-part-i.md
+  - title: Ineffectual Synchronization - Part II
+    statement: markdowns/chapter10/6-ineffectual-synchronization-part-ii.md
+  - title: Ineffectual Synchronization - Part III
+    statement: markdowns/chapter10/7-ineffectual-synchronization-part-iii.md
