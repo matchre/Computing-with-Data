@@ -1,5 +1,8 @@
 # Ineffectual Synchronization - Part III
 
+Another example of ineffectual synchronization, that's not applicable in Java
+but can happen in C#, is demonstrated below:
+
 ```C# runnable
 using System;
 using System.Threading;
