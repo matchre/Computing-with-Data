@@ -1,7 +1,7 @@
 # Volatility - Part I
 
 Here's the new code snippet with a single keyword addition, `volatile`,
-to fix the infinite loop issue:
+to fix the infinite-loop issue:
 
 ```java runnable
 class Task implements Runnable {
