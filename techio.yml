@@ -510,3 +510,21 @@ plan:
     statement: markdowns/chapter10/6-ineffectual-synchronization-part-ii.md
   - title: Ineffectual Synchronization - Part III
     statement: markdowns/chapter10/7-ineffectual-synchronization-part-iii.md
+  - title: Synchronization vs. Volatility
+    statement: markdowns/chapter10/8-synchronization-vs-volatility.md
+  - title: Starvation
+    statement: markdowns/chapter10/9-starvation.md
+  - title: Deadlocks - Part I
+    statement: markdowns/chapter10/A0-deadlocks-part-i.md
+  - title: Deadlocks - Part II
+    statement: markdowns/chapter10/A1-deadlocks-part-ii.md
+  - title: Deadlocks - Part II
+    statement: markdowns/chapter10/A2-deadlocks-part-iii.md
+  - title: The Producer-Consumer Problem - Part I
+    statement: markdowns/chapter10/B0-the-producer-consumer-problem-part-i.md
+  - title: The Producer-Consumer Problem - Part II
+    statement: markdowns/chapter10/B1-the-producer-consumer-problem-part-ii.md
+  - title: The Producer-Consumer Problem - Part III
+    statement: markdowns/chapter10/B2-the-producer-consumer-problem-part-iii.md
+  - title: The Producer-Consumer Problem - Part IV
+    statement: markdowns/chapter10/B3-the-producer-consumer-problem-part-iv.md
