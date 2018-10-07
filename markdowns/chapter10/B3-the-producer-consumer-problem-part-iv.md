@@ -2,7 +2,7 @@
 
 Running the following program will result into a race condition:
 
-```java
+```java runnable
 // { autofold
 class Shared {
   static final int MAX_BUFFER_SIZE = 3;
