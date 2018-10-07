@@ -540,3 +540,23 @@ plan:
     statement: markdowns/chapter10/C2-reader-writer-locks-part-iii.md
   - title: Reader-Writer Locks - Part IV
     statement: markdowns/chapter10/C3-reader-writer-locks-part-iv.md
+  - title: Reentrant Locks - Part I
+    statement: markdowns/chapter10/D0-reentrant-locks-part-i.md
+  - title: Reentrant Locks - Part II
+    statement: markdowns/chapter10/D1-reentrant-locks-part-ii.md
+  - title: Reentrant Locks - Part III
+    statement: markdowns/chapter10/D2-reentrant-locks-part-iii.md
+  - title: Reentrant Locks - Part IV
+    statement: markdowns/chapter10/D3-reentrant-locks-part-iv.md
+  - title: Thread Pools - Part I
+    statement: markdowns/chapter10/E0-thread-pools-part-i.md
+  - title: Thread Pools - Part II
+    statement: markdowns/chapter10/E1-thread-pools-part-ii.md
+  - title: Thread Pools - Part III
+    statement: markdowns/chapter10/E2-thread-pools-part-iii.md
+  - title: Scheduled Executor Services
+    statement: markdowns/chapter10/F-scheduled-executor-services.md
+  - title: Futures
+    statement: markdowns/chapter10/G-futures.md
+  - title: Streams
+    statement: markdowns/chapter10/H-streams.md
