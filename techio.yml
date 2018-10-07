@@ -528,3 +528,15 @@ plan:
     statement: markdowns/chapter10/B2-the-producer-consumer-problem-part-iii.md
   - title: The Producer-Consumer Problem - Part IV
     statement: markdowns/chapter10/B3-the-producer-consumer-problem-part-iv.md
+  - title: The Producer-Consumer Problem - Part V
+    statement: markdowns/chapter10/B4-the-producer-consumer-problem-part-v.md
+  - title: The Producer-Consumer Problem - Part VI
+    statement: markdowns/chapter10/B5-the-producer-consumer-problem-part-vi.md
+  - title: Reader-Writer Locks - Part I
+    statement: markdowns/chapter10/C0-reader-writer-locks-part-i.md
+  - title: Reader-Writer Locks - Part II
+    statement: markdowns/chapter10/C1-reader-writer-locks-part-ii.md
+  - title: Reader-Writer Locks - Part III
+    statement: markdowns/chapter10/C2-reader-writer-locks-part-iii.md
+  - title: Reader-Writer Locks - Part IV
+    statement: markdowns/chapter10/C3-reader-writer-locks-part-iv.md
