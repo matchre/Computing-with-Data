@@ -1,0 +1,4 @@
+#!/bin/bash
+cp file-locks.java Main.java
+javac Main.java
+java Main& java Main& java Main&

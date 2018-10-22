@@ -562,3 +562,11 @@ plan:
     statement: markdowns/chapter10/H-streams.md
   - title: ParSeq - Part I
     statement: markdowns/chapter10/I-parseq-part-i.md
+  - title: ParSeq - Part II
+    statement: markdowns/chapter10/I-parseq-part-ii.md
+  - title: ParSeq - Part III
+    statement: markdowns/chapter10/I-parseq-part-iii.md
+  - title: ParSeq - Part IV
+    statement: markdowns/chapter10/I-parseq-part-iv.md
+  - title: File Locks
+    statement: markdowns/chapter10/J-file-locks.md
