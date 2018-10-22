@@ -164,8 +164,8 @@ plan:
     statement: markdowns/chapter4/E1-return-value.md
   - title: Function Parameters
     statement: markdowns/chapter4/E2-function-parameters.md
-  - title: Function Definition and Declaration
-    statement: markdowns/chapter4/E3-function-definition-and-declaration.md
+  - title: Function Definition and Function Declaration
+    statement: markdowns/chapter4/E3-function-definition-and-function-declaration.md
   - title: Scope of Function Variables
     statement: markdowns/chapter4/E4-scope-of-function-variables.md
   - title: Pointer Parameters
@@ -560,3 +560,5 @@ plan:
     statement: markdowns/chapter10/G-futures.md
   - title: Streams
     statement: markdowns/chapter10/H-streams.md
+  - title: ParSeq - Part I
+    statement: markdowns/chapter10/I-parseq-part-i.md
