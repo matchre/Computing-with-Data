@@ -3,15 +3,17 @@ set -e
 cd $(dirname -- "$1")
 INPUT_BASENAME=$(basename -- "$1")
 cp "$INPUT_BASENAME.java" Main.java
-javac -cp jars/parseq-3.0.2.jar Main.java
+javac -cp jars/async-http-client-1.9.21.jar:jars/parseq-3.0.4.jar:jars/parseq-http-client-3.0.4.jar Main.java
 java -cp .\
-:jars/parseq-3.0.2.jar\
-:jars/slf4j-api-1.7.25.jar\
-:jars/slf4j-log4j12-1.7.25.jar\
-:jars/log4j-1.2.17.jar\
+:jars/async-http-client-1.9.21.jar\
 :jars/jackson-annotations-2.9.6.jar\
 :jars/jackson-core-2.9.6.jar\
 :jars/jackson-core-asl-1.9.13.jar\
 :jars/jackson-databind-2.9.6.jar\
 :jars/jackson-mapper-asl-1.9.13.jar\
+:jars/log4j-1.2.17.jar\
+:jars/parseq-3.0.4.jar\
+:jars/parseq-http-client-3.0.4.jar\
+:jars/slf4j-api-1.7.25.jar\
+:jars/slf4j-log4j12-1.7.25.jar\
  Main
